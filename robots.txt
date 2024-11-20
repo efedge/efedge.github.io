@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://efedge.dotose.com/efedge.xml.gz
